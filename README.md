@@ -18,11 +18,10 @@ Soy un desarrollador en constante evolución, apasionado por el código limpio y
 - 🎯 C#
 - 📱 Kotlin
 
-## 💼 Experiencia y Proyectos Destacados
+## 💼 Experiencia
 
 - 💻 **Desarrollador en Prácticas (Sweet Code Chef):** Desarrollo e integración de plugins para WordPress utilizando PHP. Realización de pruebas funcionales y testeo de integraciones de forma autónoma.
-- 🎮 **Aplicación Full-Stack NintendoAPI:** Diseño y desarrollo de una enciclopedia web de videojuegos. Implementación del back-end con Node.js y gestión de base de datos relacional con MySQL.
-- 🤝 **Trabajo en equipo y Gestión web:** Experiencia en atención al usuario, resolución de incidencias y gestión web con Magento.
+- 🤝 **Perfumerías Primor:** Experiencia en atención al usuario, resolución de incidencias y gestión web con Magento.
 
 ## 📫 Cómo contactar conmigo
 - 💼 **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-url-personalizada)
