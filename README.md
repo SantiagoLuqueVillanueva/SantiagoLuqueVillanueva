@@ -1,16 +1,29 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santiago Luque Villanueva
 
-<!--
-**SantiagoLuqueVillanueva/SantiagoLuqueVillanueva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Estudiante de 2º DAM | Desarrollador Back-end y Front-end
 
-Here are some ideas to get you started:
+Soy un desarrollador en constante evolución, apasionado por el código limpio y la resolución de problemas. Me motiva transformar retos técnicos en soluciones de software eficientes. Actualmente busco una oportunidad de **Formación Dual** para aportar valor, trabajar en equipo y seguir creciendo en un entorno real.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologías y Herramientas
+
+**Experiencia y herramientas consolidadas:**
+- ☕ **Backend:** Java, PHP, Node.js
+- 🖥️ **Frontend:** JavaScript, HTML5, CSS
+- 🗄️ **Bases de Datos:** MySQL, SQL
+- 🛠️ **Entornos:** Git, GitHub, Docker, Linux (Ubuntu, Kali), macOS
+
+**🌱 Aprendiendo actualmente:**
+- 🅰️ Angular
+- 🟦 TypeScript
+- 🎯 C#
+- 📱 Kotlin
+
+## 💼 Experiencia y Proyectos Destacados
+
+- 💻 **Desarrollador en Prácticas (Sweet Code Chef):** Desarrollo e integración de plugins para WordPress utilizando PHP. Realización de pruebas funcionales y testeo de integraciones de forma autónoma.
+- 🎮 **Aplicación Full-Stack NintendoAPI:** Diseño y desarrollo de una enciclopedia web de videojuegos. Implementación del back-end con Node.js y gestión de base de datos relacional con MySQL.
+- 🤝 **Trabajo en equipo y Gestión web:** Experiencia en atención al usuario, resolución de incidencias y gestión web con Magento.
+
+## 📫 Cómo contactar conmigo
+- 💼 **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-url-personalizada)
+- ✉️ **Email:** luquevillanuevasantiago@gmail.com
