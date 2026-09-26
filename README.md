@@ -24,5 +24,5 @@ Soy un desarrollador en constante evolución, apasionado por el código limpio y
 - 🤝 **Perfumerías Primor:** Experiencia en atención al usuario, resolución de incidencias y gestión web con Magento.
 
 ## 📫 Cómo contactar conmigo
-- 💼 **LinkedIn:** [Tu perfil de LinkedIn](https://www.linkedin.com/in/tu-url-personalizada)
+- 💼 **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/tu-url-personalizada)
 - ✉️ **Email:** luquevillanuevasantiago@gmail.com
